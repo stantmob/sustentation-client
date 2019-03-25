@@ -1,1 +1,1 @@
-export const menuIcon = require("./imgs/menu.png");
+export const menuIcon = require('./imgs/menu.png')
