@@ -67,9 +67,6 @@ export default {
     }
   },
   methods: {
-    metodo() {
-      this.name = 'outro nome'
-    },
     submit_form(formName) {
       this.$refs[formName].validate(valid => {
         if (valid) {
